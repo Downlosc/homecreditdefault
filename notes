@@ -6,4 +6,5 @@ TODO:
 	              they do more or less the same thing but with different syntax, names, since 
 		      both are copy and paste from a kaggle notebook (https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2)
 
-- clean the code                      
+- clean the code  (comments, make a module with the defined functions)                    
+
