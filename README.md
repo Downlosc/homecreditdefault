@@ -1,2 +1,2 @@
 # Homecreditdefault FDS project
-Jupyter notebook for the home-credit-default-risk Kaggle competition
+Jupyter notebooks for the home-credit-default-risk Kaggle competition
